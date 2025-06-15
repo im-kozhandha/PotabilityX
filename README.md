@@ -21,8 +21,7 @@ PotabilityX is an advanced **machine learning-driven** project designed to predi
 
 ## 🔹 Key Features  
 [🔝 Back to Top](#potabilityx)  
-✅ **ML-Powered Prediction** → Uses models like Random Forest, XGBoost, SVM, and more  
-✅ **Rural vs. Urban Classification** → Introduces a novel approach to assess contamination risks  
+✅ **ML-Powered Prediction** → Uses models like Random Forest, XGBoost, SVM, and more    
 ✅ **Data-Driven Insights** → Identifies critical water quality factors affecting potability  
 ✅ **Sustainability Focused** → Supports **SDG 6: Clean Water & Sanitation** through smart analytics  
 ✅ **Scalable & Future-Ready** → Can be extended to **real-time monitoring, IoT-based water sensors, and geospatial mapping**  
@@ -31,7 +30,6 @@ PotabilityX is an advanced **machine learning-driven** project designed to predi
 
 ## 🔬 Novelty & Innovation  
 [🔝 Back to Top](#potabilityx)  
-🚀 **Introducing a Rural vs. Urban water classification system** based on chemical composition  
 📊 **Benchmarking multiple ML models** for robust water safety prediction  
 🌍 **Potential real-world applications** in environmental policy, public health, and smart water management  
 
@@ -57,10 +55,9 @@ PotabilityX is an advanced **machine learning-driven** project designed to predi
 
 ## 📈 Progress  
 [🔝 Back to Top](#potabilityx)  
-✅ Dataset cleaned and preprocessed  
-✅ Novel **Rural vs. Urban classification feature** added  
+✅ Dataset cleaned and preprocessed    
 ✅ ML models implemented and tuned  
-🔄 **Ongoing:** Visualization & Model Performance Comparison  
+✅ Visualization & Model Performance Comparison completed 
 🚀 **Next Steps:** Documenting results and insights  
 
 ---
